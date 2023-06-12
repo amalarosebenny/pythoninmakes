@@ -1,0 +1,15 @@
+.banner{
+background-color: #05ffb0;
+width:100%;
+height:200px;
+margin-bottom:50px
+}
+
+
+.banner_text{
+ /***   top:100px; ***/
+    left:50%;
+    margin-left:-100px;
+    text-align:center;transform:transform;
+    padding-top:50px;
+}
